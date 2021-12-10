@@ -52,7 +52,8 @@ ul {
 	background-color: #333;
 	z-index: 100;
 	position: fixed;
-	width: 80%;
+	width: 50%;
+	align-self: center;
 }
 li {
 	padding: 10px;
